@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashikur-rahman-shad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Ashikur Rahman Shad.
+Programmer and future softwate Engineer.
+Design: HTML, CSS, SWING, and JS.
+Serverside: PHP, SQL
+Languages: C, JS, Java, Python, PHP
 
 <!---
 ashikur-rahman-shad/ashikur-rahman-shad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
