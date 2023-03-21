@@ -5,11 +5,11 @@ December 2019 at Harvard University, USA
 
 ^-^
 
-##About Me
+## About Me
 
 ✨️
 
-###Short Bio:
+### Short Bio:
 
 Muslim Bangladeshi
 
@@ -42,7 +42,7 @@ I love all forms of arts, either be a painting, music, poetry, or UI 😅
 [Nostalgic Indian Songs](https://open.spotify.com/playlist/3r6Tn6Yl7soX4dRYX3Qz7a?si=3d2b8fb4316245eb)
 
 &nbsp; 
-###Programming skills 🖥️:
+### Programming skills 🖥️:
 
 >**User Interface / Front-end**:  HTML5, CSS, JS
 
@@ -53,12 +53,12 @@ I love all forms of arts, either be a painting, music, poetry, or UI 😅
 **Problem Solving**: [BeeCrowd *(URI)*](https://www.beecrowd.com.br/judge/en/profile/598716)
 
 &nbsp; 
-###Academics 👨‍🎓️:
+### Academics 👨‍🎓️:
 
 Currently I'm completing **B.Sc in Software Engineering** at **Daffodil International University**
 
 
->####Past
+>#### Past
 >
 >**SSC-2018** *(BIAM Model School And College)*
 >
@@ -66,18 +66,18 @@ Currently I'm completing **B.Sc in Software Engineering** at **Daffodil Internat
 
 👨‍🎓️
 
-##Gallary
+## Gallary
 
 &nbsp;
 
-####My Setup
+#### My Setup
 
 ![](img/pc/blue-dark-pc.jpg)
 Dark Blue Theme
 
 &nbsp;
 
-####My childhood
+#### My childhood
 
 ![](img/childhood/shad-dad-sister.jpg)
 Shad with dad and sister!
@@ -94,12 +94,12 @@ Evergreen smiling me!
 ![](img/childhood/shad-birthday.jpg)
 My Birthday!
 
-####Growing Shad
+#### Growing Shad
 
 ![](img/kid/shad-balcony.jpg)
 Balcony and the breeze!
 
-####Now ✨
+#### Now ✨
 
 ![](img/semi-adult/cox-bazar-long-hair.jpg)
 At Cox's Bazar!
