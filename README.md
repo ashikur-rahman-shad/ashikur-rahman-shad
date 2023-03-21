@@ -19,7 +19,7 @@ I also make beats 🎹️🎶️
 
 I love all forms of arts
 
-**Believer in Free Software.**  * GNU, Linux, KDE,  Mozilla ❤*
+**Believer in Free Software**  *GNU, Linux, KDE,  Mozilla ❤*
 
 **Interests:** History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
 
