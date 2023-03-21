@@ -38,7 +38,7 @@ I love all forms of arts, either be a painting, music, poetry, or UI 😅
 **Anime:** Naruto *(Favorite Charecters: Obito, Kabuto, Kimimaro)*
 
 **My Spotify Playlists** : [EDM](https://open.spotify.com/playlist/6ZwDWx4c9MLQvyNegzddv7?si=a0fb32cbb4374b7e),
-[Nostalgic Indian Songs](https://open.spotify.com/playlist/3r6Tn6Yl7soX4dRYX3Qz7a?si=3d2b8fb4316245eb)
+[Favorite Songs (Indian)](https://open.spotify.com/playlist/3r6Tn6Yl7soX4dRYX3Qz7a?si=3d2b8fb4316245eb)
 
 &nbsp; 
 ### Programming skills 🖥️:
