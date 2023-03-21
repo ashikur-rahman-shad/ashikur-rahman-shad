@@ -1,4 +1,4 @@
-# Ashikur Rahman Shad
+# Ashikur Rahman Shad [(arstrx)](arstrx.com)
 
 ![Winter in USA](img/semi-adult/harvard-usa-winter.jpg)
 December 2019 at Harvard University, USA
