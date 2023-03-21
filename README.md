@@ -1,17 +1,105 @@
-I'm Ashikur Rahman Shad.
+# Ashikur Rahman Shad
 
-Programmer and future softwate Engineer.
+![Winter in USA](img/harvard-usa-winter.jpg  "At Harvard University, USA")
+December 2019 at Harvard University, USA
 
-Design: HTML, CSS, SWING, and JS.
+^-^
 
-Serverside: PHP, SQL
+##About Me
 
-Languages: C, JS, Java, Python, PHP
+✨️
 
-Studying at Daffodil International University.
+###Short Bio:
 
-Email: ashikur35-724@diu.edu.bd
+Muslim Bangladeshi
 
-Shad with dad!
+I am a programming and tech enthusiast. I've been coding since 6th Grade. 
 
-![](img/IMG_20200514_143231.jpg)
+I also make beats 🎹️🎶️
+
+I love all forms of arts
+
+**Believer in Free Software**  *Linux, KDE,  Mozilla ❤*
+
+**Interests: **History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
+
+&nbsp;
+
+###Favorites:
+
+**Timepass:** Music, Anime, Gaming,
+
+**Productive Timepass:** Coding, Making Beats
+
+I love all forms of arts, either be a painting, music, poetry, or UI 😅
+
+**Food:** Pizza, Ice Cream.
+
+**Anime:** Naruto *(Favorite Charecters: Obito, Kabuto, Kimimaro)*
+
+**My Spotify Playlists: **
+[EDM](https://open.spotify.com/playlist/6ZwDWx4c9MLQvyNegzddv7?si=a0fb32cbb4374b7e),
+[Nostalgic Indian Songs](https://open.spotify.com/playlist/3r6Tn6Yl7soX4dRYX3Qz7a?si=3d2b8fb4316245eb)
+
+&nbsp; 
+###Programming skills 🖥️:
+
+>**User Interface / Front-end**:  HTML5, CSS, JS
+
+>**Server Side**: PHP, JS
+
+>**App Development**: JS, Java, Python, C++, 
+
+**Problem Solving**: [BeeCrowd *(URI)*](https://www.beecrowd.com.br/judge/en/profile/598716)
+
+&nbsp; 
+###Academics 👨‍🎓️:
+
+Currently I'm completing **B.Sc in Software Engineering** at **Daffodil International University**
+
+
+>####Past
+>
+>**SSC-2018** *(BIAM Model School And College)*
+>
+>**HSC-2020**
+
+👨‍🎓️
+
+##Gallary
+
+&nbsp;
+
+####My Setup
+
+![](img/pc/blue-dark-pc.jpg)
+Dark Blue Theme
+
+&nbsp;
+
+####My childhood
+
+![](img/childhood/shad-dad-sister.jpg)
+Shad with dad and sister!
+
+![](img/childhood/shad-sheen-eid.jpg)
+Eid with sister!
+
+![](img/childhood/shad-smile-sheen.jpg)
+With sister Sheen!!
+
+![](img/childhood/shad-smile.jpg)
+Evergreen smiling me!
+
+![](img/childhood/shad-birthday.jpg)
+My Birthday!
+
+####Growing Shad
+
+![](img/kid/shad-balcony.jpg)
+Balcony and the breeze!
+
+####Now ✨
+
+![](img/semi-adult/cox-bazar-long-hair.jpg)
+At Cox's Bazar!
