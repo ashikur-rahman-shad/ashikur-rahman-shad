@@ -21,7 +21,7 @@ I love all forms of arts
 
 **Believer in Free Software**  *Linux, KDE,  Mozilla ❤*
 
-**Interests: ** History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
+**Interests:** History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
 
 &nbsp;
 
