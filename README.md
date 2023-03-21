@@ -13,4 +13,4 @@ Studying at Daffodil International University.
 Email: ashikur35-724@diu.edu.bd
 
 
-[Shad with dad!](img/IMG_20200514_143231.jpg)
+[](img/IMG_20200514_143231.jpg)
