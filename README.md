@@ -31,7 +31,7 @@ I love all forms of arts
 
 **Productive Timepass:** Coding, Making Beats
 
-I love all forms of arts, either be a painting, music, poetry, or UI 😅
+I love all forms of arts, either be a painting, music, poetry, or a UI Design😅
 
 **Food:** Pizza, Ice Cream.
 
