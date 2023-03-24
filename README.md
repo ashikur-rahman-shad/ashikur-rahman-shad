@@ -63,7 +63,7 @@ Currently I'm completing **B.Sc in Software Engineering** at **Daffodil Internat
 >
 >**HSC-2020**
 
-👨‍🎓️
+&nbsp; 
 
 ## Gallary
 
@@ -72,7 +72,7 @@ Currently I'm completing **B.Sc in Software Engineering** at **Daffodil Internat
 #### My Setup
 
 ![](img/pc/blue-dark-pc.jpg)
-Dark Blue Theme
+ Blue Setup with Dark theme
 
 &nbsp;
 
@@ -93,10 +93,14 @@ Evergreen smiling me!
 ![](img/childhood/shad-birthday.jpg)
 My Birthday woohoo!
 
+&nbsp; 
+
 #### Growing Shad
 
 ![](img/kid/shad-balcony.jpg)
 Balcony and the breeze!
+
+&nbsp; 
 
 #### Now ✨
 
