@@ -82,16 +82,16 @@ Dark Blue Theme
 Shad with dad and sister!
 
 ![](img/childhood/shad-sheen-eid.jpg)
-Eid with sister!
+Eid day with sister!
 
 ![](img/childhood/shad-smile-sheen.jpg)
-With sister Sheen!!
+another photo with sister!!
 
 ![](img/childhood/shad-smile.jpg)
 Evergreen smiling me!
 
 ![](img/childhood/shad-birthday.jpg)
-My Birthday!
+My Birthday woohoo!
 
 #### Growing Shad
 
