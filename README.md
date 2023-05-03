@@ -45,7 +45,9 @@ I love all forms of arts, either be a painting, music, poetry, or a UI DesignðŸ˜
 
 >**Server Side**: PHP, JS
 
->**App Development**: JS, Java, Python, C++, 
+>**App Development**: JS, Java, Python, C++
+
+>**Robotics**: Arduino, Raspberry Pi 
 
 **Problem Solving**: [BeeCrowd *(URI)*](https://www.beecrowd.com.br/judge/en/profile/598716)
 
