@@ -1,9 +1,4 @@
-# Ashikur Rahman Shad [(arstrx)](https://arstrx.com)
-
-![Winter in USA](img/semi-adult/harvard-usa-winter.jpg)
-December 2019 at Harvard University, USA
-
-^-^
+# Ashikur Rahman Shad (arstrx)
 
 ## About Me
 
@@ -17,7 +12,7 @@ I am a programming and tech enthusiast. I've been coding since 6th Grade.
 
 I also make beats 🎹️🎶️
 
-**Believer in Free Software**  *GNU, Linux, KDE,  Mozilla ❤*
+**Believer in Free Software**  *GNU, Linux, KDE,  Mozilla, and The Free Software (open-source) community ❤*
 
 **Interests:** History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
 
@@ -57,52 +52,7 @@ I love all forms of arts, either be a painting, music, poetry, or a UI Design�
 Currently I'm completing **B.Sc in Software Engineering** at **Daffodil International University**
 
 
->#### Past
->
->**SSC-2018** *(BIAM Model School And College)*
->
->**HSC-2020**
+![Winter in USA](img/semi-adult/harvard-usa-winter.jpg)
+December 2019 at Harvard University, USA
 
-&nbsp; 
-
-## Gallary
-
-&nbsp;
-
-#### My Setup
-
-![](img/pc/blue-dark-pc.jpg)
- Blue Setup with Dark theme
-
-&nbsp;
-
-#### My childhood
-
-![](img/childhood/shad-dad-sister.jpg)
-Shad with dad and sister!
-
-![](img/childhood/shad-sheen-eid.jpg)
-Eid day with sister!
-
-![](img/childhood/shad-smile-sheen.jpg)
-another photo with sister!!
-
-![](img/childhood/shad-smile.jpg)
-Evergreen smiling me!
-
-![](img/childhood/shad-birthday.jpg)
-My Birthday woohoo!
-
-&nbsp; 
-
-#### Growing Shad
-
-![](img/kid/shad-balcony.jpg)
-Balcony and the breeze!
-
-&nbsp; 
-
-#### Now ✨
-
-![](img/semi-adult/cox-bazar-long-hair.jpg)
-At Cox's Bazar!
+^-^
