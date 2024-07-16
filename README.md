@@ -1,7 +1,5 @@
 # Ashikur Rahman Shad (arstrx)
 
-## About Me
-
 ✨️
 
 ### Short Bio:
