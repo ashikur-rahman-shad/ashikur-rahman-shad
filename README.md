@@ -36,9 +36,9 @@ I love all forms of arts, either be a painting, music, poetry, or a UI DesignðŸ˜
 
 >**User Interface / Front-end**:  HTML5, CSS, JS
 
->**Server Side**: PHP, JS
+>**Server Side**: PHP, FastAPI
 
->**App Development**: JS, Java, Python, C++
+>**Languages**: JS, Java, Python, C
 
 >**Robotics**: Arduino, Raspberry Pi 
 
