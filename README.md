@@ -14,22 +14,9 @@ I also make beats 🎹️🎶️
 
 **Interests:** History, Philosphy, Religion, Psychology,  Ideology, Cars, Tech
 
-&nbsp;
 
-### Favorites:
 
-**Timepass:** Music, Anime, Gaming,
 
-**Productive Timepass:** Coding, Making Beats
-
-I love all forms of arts, either be a painting, music, poetry, or a UI Design😅
-
-**Food:** Pizza, Ice Cream.
-
-**Anime:** Naruto *(Favorite Charecters: Obito, Kabuto, Kimimaro)*
-
-**My Spotify Playlists** : [EDM](https://open.spotify.com/playlist/6ZwDWx4c9MLQvyNegzddv7?si=a0fb32cbb4374b7e),
-[Favorite Songs (Indian)](https://open.spotify.com/playlist/3r6Tn6Yl7soX4dRYX3Qz7a?si=3d2b8fb4316245eb)
 
 &nbsp; 
 ### Programming skills 🖥️:
@@ -50,7 +37,18 @@ I love all forms of arts, either be a painting, music, poetry, or a UI Design�
 Currently I'm completing **B.Sc in Software Engineering** at **Daffodil International University**
 
 
-![Winter in USA](img/semi-adult/harvard-usa-winter.jpg)
-December 2019 at Harvard University, USA
+&nbsp;
+
+### Favorites:
+
+**Timepass:** Music, Anime, Gaming,
+
+**Productive Timepass:** Coding, Making Beats
+
+I love all forms of arts, either be music, poetry, or UI Design😅
+
+**Food:** Pizza, Ice Cream.
+
+**Anime:** Naruto *(Favorite Charecters: Obito, Kabuto, Kimimaro)*
 
 ^-^
